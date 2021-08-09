@@ -1,1 +1,4 @@
 
+## for loop
+Use ; to separate commands from different lines into one line
+for filename in *fastq ; do 
